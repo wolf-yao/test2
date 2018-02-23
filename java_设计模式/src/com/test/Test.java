@@ -9,11 +9,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		
-		String[] a={"a","b","c","d","e","f","g","z","s","h","l","w"};
+		/*String[] a={"a","b","c","d","e","f","g","z","s","h","l","w"};
 		String[] b={"a","b","c","d","e","f","g","z","s","h","l","w"};
-		
 		List list=new ArrayList<Map>(); 
 		for(int i=0;i<20;i++){
 			Map map=new HashMap<String, String>();
@@ -23,13 +20,9 @@ public class Test {
 			list.add(map);
 			list.add(mapb);
 		}
-		
 		//System.out.println(list);
-		
-		
 		List<String> listStr= new ArrayList<String>(); 
 		List rlist=new ArrayList<Map>(); 
-		
 	   for(int i=0;i<list.size();i++){
 		   System.out.println("i:"+i);
 		   Map<String,String> map=(Map) list.get(i);
@@ -69,7 +62,7 @@ public class Test {
 			rmap.put(keys, String.valueOf(rint));
 			rlist.add(rmap);
 	   }
-	   System.out.println(rlist);
+	   System.out.println(rlist);*/
 //		for(int i=0;i<list.size();i++){
 //			Map<String,String> map=(Map) list.get(i);
 //			String keys="";
@@ -90,16 +83,8 @@ public class Test {
 //		}
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		float o =10/4;
+		System.out.println(o);
 		
 		
 		
